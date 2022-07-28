@@ -114,8 +114,8 @@ h1,h2,h3,p{
   margin-right: 10px;
 }
 
-.contact-icon:hover,
-.contact-icon:focus {
+.contact-link:hover .contact-icon,
+.contact-link:focus .contact-icon{
   fill: currentColor;
 }
 
